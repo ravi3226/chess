@@ -1,0 +1,1 @@
+{"version":3,"file":"events.config.js","sourceRoot":"","sources":["../../src/config/events.config.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,YAAY,GAAG;IACxB,UAAU,EAAE,YAAY;IACxB,UAAU,EAAE,YAAY;IACxB,QAAQ,EAAE,WAAW;IACrB,eAAe,EAAE,mBAAmB;IACpC,YAAY,EAAE,gBAAgB;IAC9B,UAAU,EAAE,aAAa;CAC5B,CAAA"}
